@@ -11,8 +11,8 @@ module.exports = {
   ],
   bottom: [
     {
-      text: 'Imprint',
-      url: '/imprint/'
+      text: 'Colophon',
+      url: '/colophon/'
     },
     {
       text: 'Privacy',
