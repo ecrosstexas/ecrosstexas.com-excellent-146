@@ -1,5 +1,5 @@
 ---
-title: 'Serius Sweaters'
+title: 'Sirius Sweaters'
 description: "Eric's Sirius Majors hockey sweaters"
 date: 2023-01-17T20:43:00
 ---
