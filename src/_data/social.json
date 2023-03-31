@@ -5,6 +5,11 @@
     "icon": "github.svg"
   },
   {
+    "platform": "twitter",
+    "url": "https://twitter.com/ecrosstexas",
+    "icon": "twitter.svg"
+  },
+  {
     "platform": "mastodon",
     "url": "https://mastodon.social/@ecrosstexas",
     "icon": "mastodon.svg"
