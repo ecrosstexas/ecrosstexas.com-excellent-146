@@ -8,8 +8,8 @@ I wrote all that great sounding stuff back in 2021. Here I am still struggling t
 
 Well that changes now.  I need to get this back rocking and rolling they way I've always hoped it could.  I've got plenty of content to share in half baked form.
 
-{% imagePlaceholder "./src/assets/images/Steve-Jobs-by-Albert-Watson.jpg", "photo of Steve Jobs by Albert Watson", " " %}
-
-I really need to take Steve Jobs advice to heart.
-
 > Real Artists Ship!
+
+I really need to take Steve Jobs' advice to heart.
+
+{% imagePlaceholder "./src/assets/images/not-mine/Steve-Jobs-by-Albert-Watson.jpg", "photo of Steve Jobs by Albert Watson", "&copy; Albert Watson" %}

@@ -16,7 +16,7 @@ tags:
     - politics
     - quiz
 ---
-{% imagePlaceholder "./src/assets/images/political-typology-quiz.jpg", "Where do you fit in the political typology?" %}
+{% imagePlaceholder "./src/assets/images/not-mine/political-typology-quiz.jpg", "Where do you fit in the political typology?" %}
 
 According to the [Pew Research Center](https://www.pewresearch.org), my best fit is...
 

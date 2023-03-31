@@ -1,5 +1,5 @@
 ---
-title: 'After Nashville'
+title: 'The Wages of Sin'
 description: 'The time is now America, repent and believe!'
 date: 2023-03-31T07:00:00
 ---
