@@ -10,6 +10,6 @@ blog:
 
 ## Welcome to my digital ranch
 
-Eric's blog, links, notes, photos, and more. It's a digital garden, a commonplace book, a modern day cabinet of curiosities.
+Eric's [blog](/blog/), [links](/links/), notes, photos, and [more](/sitemap/). It's a digital garden, a commonplace book, a modern day cabinet of curiosities.
 
 We are breaking ground today, expect construction activity for the foreseeable future.
