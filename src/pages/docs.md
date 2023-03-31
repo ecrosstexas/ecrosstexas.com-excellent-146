@@ -4,6 +4,8 @@ description: When you really need to read the documentation.
 permalink: /docs/index.html
 date:  2020-09-20
 layout: page
+tags:
+- pages
 ---
 
 ## This site

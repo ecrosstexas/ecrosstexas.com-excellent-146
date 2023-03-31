@@ -7,6 +7,7 @@ layout: page
 youtube: false
 tags:
 - pages
+- EricWallace
 ---
 
 Welcome to ecrosstexas. My name is Eric Wallace and I am your servant in Christ. This is my personal website and home to my <a href="/blog/">weblog</a>.</p>

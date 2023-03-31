@@ -4,6 +4,8 @@ description: Eric, Erik, Erick, Eriq
 permalink: /famous-erics/index.html
 date: 2006-10-19T09:29:00
 layout: page
+tags:
+- pages
 ---
 
 [ERIC.com][1] — a place of Erics of the world to collaborate
