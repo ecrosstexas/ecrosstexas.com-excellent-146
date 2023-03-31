@@ -1,7 +1,7 @@
 ---
 title: Documentation
-description: When you really need to read the documentation.
 permalink: /docs/index.html
+description: When you really need to read the documentation.
 date:  2020-09-20
 layout: page
 tags:

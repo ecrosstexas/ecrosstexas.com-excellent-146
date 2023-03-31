@@ -1,8 +1,8 @@
 ---
 title: Eric's Links
+permalink: /links/index.html
 description: 'All links posts can be found here'
 layout: links
-permalink: /links/index.html
 tags:
  - pages
 ---

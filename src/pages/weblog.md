@@ -1,7 +1,7 @@
 ---
 title:  "What is a Weblog?"
-description:
 permalink: /weblog/index.html
+description:
 date:  2001-11-10
 layout: page
 tags:

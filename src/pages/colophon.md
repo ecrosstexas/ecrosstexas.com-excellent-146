@@ -1,7 +1,7 @@
 ---
-title:  Colophon # will be overwritten by SEO.title below
-description: Regarding the publication of ecrosstexas.com
+title:  Colophon
 permalink: /colophon/index.html
+description: Regarding the publication of ecrosstexas.com
 date: 2006-10-04T22:56:00
 layout: page
 tags:

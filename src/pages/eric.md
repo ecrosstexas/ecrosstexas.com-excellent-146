@@ -1,5 +1,5 @@
 ---
-title: Eric
+title: Eric Wallace
 permalink: /eric/index.html
 description: About ecrosstexas.com, a modern digital ranch created by Eric Wallace
 date: 2009-08-06

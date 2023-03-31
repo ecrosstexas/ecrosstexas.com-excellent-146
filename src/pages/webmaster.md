@@ -1,8 +1,10 @@
 ---
 title:  Webmaster Tools
-description: Tools to help run this site.
 permalink: /admin/webmaster/index.html
+description: Tools to help run this site.
 layout: page
+tags:
+ - pages
 ---
 
 ## Source

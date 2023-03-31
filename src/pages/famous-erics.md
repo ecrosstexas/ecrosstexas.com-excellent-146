@@ -1,7 +1,7 @@
 ---
 title: Famous Erics
-description: Eric, Erik, Erick, Eriq
 permalink: /famous-erics/index.html
+description: Eric, Erik, Erick, Eriq
 date: 2006-10-19T09:29:00
 layout: page
 tags:
