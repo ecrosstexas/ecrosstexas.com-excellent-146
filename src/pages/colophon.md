@@ -4,7 +4,8 @@ description: Regarding the publication of ecrosstexas.com
 permalink: /colophon/index.html
 date: 2006-10-04T22:56:00
 layout: page
-body_class: colophon
+tags:
+- pages
 ---
 ecrosstexas.com has been my personal web space since I discovered blogging in 2001. Through the years it has housed various incarnations of my [blog](/blog/), [photos](/photos/), personal projects and whatever other random stuff that interests me. The current design was launched in March of 2023.
 

@@ -5,6 +5,8 @@ description: About ecrosstexas.com, a modern digital ranch created by Eric Walla
 date: 2009-08-06
 layout: page
 youtube: false
+tags:
+- pages
 ---
 
 Welcome to ecrosstexas. My name is Eric Wallace and I am your servant in Christ. This is my personal website and home to my <a href="/blog/">weblog</a>.</p>

@@ -4,6 +4,8 @@ permalink: /about/index.html
 description: About ecrosstexas.com, a modern digital ranch created by Eric Wallace
 layout: page
 youtube: false
+tags:
+- pages
 ---
 
 ecrosstexas.com is the personal website of [Eric Wallace](/eric/).
