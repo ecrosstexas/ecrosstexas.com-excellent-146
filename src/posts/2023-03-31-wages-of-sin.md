@@ -4,7 +4,7 @@ description: 'The time is now America, repent and believe!'
 date: 2023-03-31T07:00:00
 ---
 
-> _The Lord is near to the brokenhearted and saves the crushed in spirit. (Psalm 34:18 ESV)_
+_The Lord is near to the brokenhearted and saves the crushed in spirit. (Psalm 34:18 ESV)_
 
 On Monday morning America witnessed another senseless attack on a school, this time in Nashville. The lives of three children and three adults were taken. Many more injured. Outrage, heartache, while thoughts and prayers abound.
 
@@ -24,12 +24,14 @@ We want to live out our own truth. Mental illness runs rampant. We are ticking t
 
 We are in an open rebellion against a Holy God and his creation.
 
-> _For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who by their unrighteousness suppress the truth. For what can be known about God is plain to them because God has shown it to them. For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made. So, they are without excuse. For although they knew God, they did not honor him as God or give thanks to him, but they became futile in their thinking, and their foolish hearts were darkened. Claiming to be wise, they became fools, and exchanged the glory of the immortal God for images resembling mortal man and birds and animals and creeping things. Therefore, God gave them up in the lusts of their hearts to impurity, to the dishonoring of their bodies among themselves, because they exchanged the truth about God for a lie and worshiped and served the creature rather than the Creator, who is blessed forever! Amen. (Romans 1:18–25 ESV)_
+_For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who by their unrighteousness suppress the truth. For what can be known about God is plain to them because God has shown it to them. For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made. So, they are without excuse. For although they knew God, they did not honor him as God or give thanks to him, but they became futile in their thinking, and their foolish hearts were darkened. Claiming to be wise, they became fools, and exchanged the glory of the immortal God for images resembling mortal man and birds and animals and creeping things._
+
+_Therefore, God gave them up in the lusts of their hearts to impurity, to the dishonoring of their bodies among themselves, because they exchanged the truth about God for a lie and worshiped and served the creature rather than the Creator, who is blessed forever! Amen. (Romans 1:18–25 ESV)_
 
 So, what do we do? Repent. See your rebellion against God. Turn from your sin and believe the Good News. Jesus Christ came to save rebel sinners like you and me. No one has lived a life of perfect obedience except his one and only Son. He offers his perfect life and death in exchange for your sinful life. Christ offers you a new life and a new, eternal family where you can be truly known and loved.
 
 And before you say I'm being _Pollyanna_; the road ahead isn't perfect in Christ. In this life there will still be heartache and pain. Change will often be slow, but the promises are yes and amen in Christ. You will find ultimate healing in Him. Your deepest needs will be met in Him. You will find your true self in Him.
 
-> _For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord. (Romans 6:23 ESV)_
+_For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord. (Romans 6:23 ESV)_
 
 The time is now America, turn to God. Find a good church this Sunday. Go, listen, ask questions, hear the Word of God, repent, and believe!
