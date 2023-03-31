@@ -29,6 +29,11 @@ module.exports = {
   pagination: {
     itemsPerPage: 20
   },
+  webmentions: {
+    fallbackAvatar: '/assets/images/svg/avatar-fallback.svg',
+    formTitle: 'Have you published a response? Let me know where:',
+    buttonValue: 'Send Webmention'
+  },
   address: {
     // edit all presets or leave empty. They are being used in the pages for privacy.md and imprint.md
     firma: 'ecrosstexas',

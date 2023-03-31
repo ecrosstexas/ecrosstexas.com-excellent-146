@@ -22,7 +22,12 @@ const {
   minifyCss,
   minifyJs,
   mdInline,
-  splitlines
+  splitlines,
+  getWebmentionsForUrl,
+  webmentionSize,
+  webmentionsByType,
+  isOwnWebmention,
+  sortWebmentions
 } = require('./config/filters/index.js');
 
 // module import shortcodes
@@ -75,6 +80,11 @@ module.exports = eleventyConfig => {
   eleventyConfig.addNunjucksAsyncFilter('jsmin', minifyJs);
   eleventyConfig.addFilter('md', mdInline);
   eleventyConfig.addFilter('splitlines', splitlines);
+  eleventyConfig.addFilter('getWebmentionsForUrl', getWebmentionsForUrl);
+  eleventyConfig.addFilter('webmentionSize', webmentionSize);
+  eleventyConfig.addFilter('webmentionsByType', webmentionsByType);
+  eleventyConfig.addFilter('isOwnWebmention', isOwnWebmention);
+  eleventyConfig.addFilter('sortWebmentions', sortWebmentions);
   eleventyConfig.addFilter('keys', Object.keys);
   eleventyConfig.addFilter('values', Object.values);
   eleventyConfig.addFilter('entries', Object.entries);
