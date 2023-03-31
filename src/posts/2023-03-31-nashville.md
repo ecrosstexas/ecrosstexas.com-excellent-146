@@ -1,27 +1,26 @@
 ---
-title: 'Nashville'
+title: 'After Nashville'
 description: 'The time is now America, repent and believe!'
-date: 2023-03-31
+date: 2023-03-31T07:00:00
 ---
 
 > _The Lord is near to the brokenhearted and saves the crushed in spirit. (Psalm 34:18 ESV)_
 
- 
 On Monday morning America witnessed another senseless attack on a school, this time in Nashville. The lives of three children and three adults were taken. Many more injured. Outrage, heartache, while thoughts and prayers abound.
 
-For a few days many will ask why? Many will come out of the woodwork decrying guns and demanding strict gun control. However, I predict that by the end of the week, with baseball back and the Final Four, we will have moved on. 
+For a few days many will ask why? Many will come out of the woodwork decrying guns and demanding strict gun control. However, I predict that by the end of the week, with baseball back and the Final Four, we will have moved on.
 
 Will anything change? What should change?
 
 Each one of us needs to look at the society we live in. The things we celebrate, tolerate, and encourage.
 
-What no one wants to talk about is the fact we are the most medicated country in the world. CDC data from 2019 shows 48.6% of Americans had taken at least one prescription medicine in the last 30 days. 12.8% have taken more than five. Now add to this ever-present alcohol abuse, the legalization of recreational marijuana, opioid/fentanyl addictions, along with other illegal drug use, the effects of media saturation, not to mention social media. Add to this volatile cocktail the growing confusion over gender and human sexuality. Bodies mutilated and pumped full of hormones. 
+What no one wants to talk about is the fact we are the most medicated country in the world. CDC data from 2019 shows 48.6% of Americans had taken at least one prescription medicine in the last 30 days. 12.8% have taken more than five. Now add to this ever-present alcohol abuse, the legalization of recreational marijuana, opioid/fentanyl addictions, along with other illegal drug use, the effects of media saturation, not to mention social media. Add to this volatile cocktail the growing confusion over gender and human sexuality. Bodies mutilated and pumped full of hormones.
 
 We barely even need to mention racial discord, political unrest, and the COVID-19 pandemic that have reshaped the last several years.
 
-This is God's judgment on us, America. He is giving us what we want because it is clear what we don't want Him. We want to be free to do what we want. We want to be high, and we want to be numb. We want to be famous and be seen by the world, yet we live in practical isolation watching the world go by 24x7. Boys want to be girls and girls want to be boys. Some want to be cats. 
+This is God's judgment on us, America. He is giving us what we want because it is clear what we don't want Him. We want to be free to do what we want. We want to be high, and we want to be numb. We want to be famous and be seen by the world, yet we live in practical isolation watching the world go by 24x7. Boys want to be girls and girls want to be boys. Some want to be cats.
 
-We want to live out our own truth. Mental illness runs rampant. We are ticking time-bombs. 
+We want to live out our own truth. Mental illness runs rampant. We are ticking time-bombs.
 
 We are in an open rebellion against a Holy God and his creation.
 
