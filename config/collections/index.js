@@ -4,10 +4,6 @@ const getAllPosts = collection => {
   return projects.reverse();
 };
 
-module.exports = {
-  getAllPosts
-};
-
 /** Returns all link posts as a collection. */
 const getAllLinks = collection => {
   const projects = collection.getFilteredByGlob('./src/links/*.md');
@@ -15,5 +11,6 @@ const getAllLinks = collection => {
 };
 
 module.exports = {
-  getAllLinks
+getAllPosts, 
+getAllLinks
 };
