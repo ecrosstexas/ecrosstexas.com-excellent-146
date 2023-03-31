@@ -15,16 +15,16 @@ module.exports = {
   meta_data: {
     opengraph_default: '/assets/images/opengraph-default.jpg', // fallback/default meta image
     opengraph_default_alt:
-      'Visible content: Eleventy starter based on workflow for Cube CSS, Every Layout, Design Tokens and Tailwind for uitility, based on the concepts explained in buildexcellentwebsit.es ', // alt text for default meta image
+      'The personal website of Eric Wallace, a digital rancher in Plano, Texas. ', // alt text for default meta image
     twitterSite: '', // i.e. @site - twitter profile of the site
     twitterCreator: '@ecrosstexas', // i.e. @author -  twitter profile of the site
-    mastodonProfile: '' // i.e. https://front-end.social/@lene - url to your mastodon instance/profile
+    mastodonProfile: 'https://mastodon.social/@ecrosstexas' // i.e. https://front-end.social/@lene - url to your mastodon instance/profile
   },
   blog: {
     // this is for the rss feed
     name: "Eric Wallace's Blog",
     description:
-      'Tell the word what you are writing about in your blog! It will show up on feed readers.'
+      'The personal website of Eric Wallace, a digital rancher in Plano, Texas.'
   },
   pagination: {
     itemsPerPage: 20

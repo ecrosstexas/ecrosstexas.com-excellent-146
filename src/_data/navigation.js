@@ -19,8 +19,8 @@ module.exports = {
       url: '/colophon/'
     },
     {
-      text: 'Privacy',
-      url: '/privacy/'
+      text: 'Sitemap',
+      url: '/sitemap/'
     }
   ]
 };
