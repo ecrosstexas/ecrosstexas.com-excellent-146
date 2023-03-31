@@ -15,10 +15,10 @@ layout: base
 </header>
 
 <article class="wrapper region">
-  <ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
+  <ul class="" role="list">
     {% set linkslist = collections.links %} {% for link in linkslist %}
 
-    <li class="card flow overflow-hidden">
+    <li class="list flow overflow-hidden">
       <h2>
         <a href="{{ link.url | url }}">{{ link.data.title }}</a>
       </h2>
