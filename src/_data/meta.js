@@ -22,7 +22,7 @@ module.exports = {
   },
   blog: {
     // this is for the rss feed
-    name: 'My great Web Development Blog',
+    name: "Eric Wallace's Blog",
     description:
       'Tell the word what you are writing about in your blog! It will show up on feed readers.'
   },
@@ -36,8 +36,8 @@ module.exports = {
     city: 'Dallas',
     state: 'TX',
     zip: '75234',
-    mobileDisplay: '+34 1234567',
-    mobileCall: ' +341234567',
+    mobileDisplay: '',
+    mobileCall: '',
     email: 'ecrosstexas@gmail.com',
     cif: ''
   },
