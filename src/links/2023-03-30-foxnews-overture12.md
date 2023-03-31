@@ -5,4 +5,4 @@ url: "https://www.foxnews.com/us/church-assembly-debate-urging-us-government-ren
 date: 2023-03-30T20:17:00
 youtube: false
 ---
-[FoxNews](https://www.foxnews.com/us/church-assembly-debate-urging-us-government-renounce-sin-transgender-procedures-minors) reports on Overture 12 to General Assembly.
+[FoxNews]({{ url }}) reports on Overture 12 to General Assembly.
