@@ -7,7 +7,7 @@ layout: page
 
 ## Source
 
-- [GitHub](https://github.com/ecrosstexas/ecrosstexas.com-excellent)
+- [GitHub](https://github.com/ecrosstexas/ecrosstexas.com-excellent) <small>{% packageVersion %}</small>
 
 ## Hosting
 
