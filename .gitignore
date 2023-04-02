@@ -14,3 +14,5 @@ src/_includes/scripts
 
 # OS
 .DS_Store
+src/assets/.DS_Store
+src/assets/images/.DS_Store
