@@ -54,7 +54,7 @@ layout: base
       <h3>
         <a href="{{ link.url | url }}">{{ link.data.title }}</a>
       </h3>
-      {% set definedDate = post.date %} {% include "partials/date.njk" %}
+      {% set definedDate = link.date %} {% include "partials/date.njk" %}
       <p>{{ link.data.description }}</p>
     </li>
 
