@@ -13,10 +13,11 @@ tags:
     {% endfor %}
 </ul>
 
-<h2>Blog Posts</h2>
+<h2>Last 20 Blog Posts</h2>
 <ul>
-{% for page in collections.post %}
-        <li><a href="{{ page.url | url }}">{{ page.data.seo.title or page.data.title }}</a></li>
+{% set postslist = collections.posts %} 
+    {% for post in postslist %}
+        <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
     {% endfor %}
 </ul>
 
