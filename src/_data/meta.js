@@ -23,7 +23,7 @@ module.exports = {
     twitterSite: '', // i.e. @site - twitter profile of the site
     twitterCreator: '@ecrosstexas', // i.e. @author -  twitter profile of the site
     mastodonProfile: 'https://mastodon.social/@ecrosstexas', // i.e. https://front-end.social/@lene - url to your mastodon instance/profile
-    mastodonUser: '@ecrosstexas',
+    mastodonUser: 'ecrosstexas',
     mastodonDomain: 'mastodon.social'
   },
   blog: {
