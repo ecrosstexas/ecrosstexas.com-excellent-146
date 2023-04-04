@@ -1,0 +1,37 @@
+---
+# http://www.sitemaps.org/
+permalink: /.well-known/webfinger
+# https://blog.maartenballiauw.be/post/2022/11/05/mastodon-own-donain-without-hosting-server.html
+# https://www.hanselman.com/blog/use-your-own-user-domain-for-mastodon-discoverability-with-the-webfinger-protocol-without-hosting-a-server
+# https://raw.githubusercontent.com/jeffhandley/jeffhandley.github.io/main/.well-known/webfinger
+eleventyExcludeFromCollections: true
+excludeFromSitemap: true
+---
+{
+  "subject": "acct:ecrosstexas@mastodon.social",
+  "aliases": [
+    "https://mastodon.social/@ecrosstexas",
+    "https://mastodon.social/users/ecrosstexas"
+  ],
+  "links": [
+    {
+      "rel": "authority",
+      "type": "text/json",
+      "href": "https://mastodon.social/.well-known/webfinger?resource=acct:ecrosstexas@mastodon.social"
+    },
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://mastodon.social/@ecrosstexas"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://mastodon.social/users/ecrosstexas"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://mastodon.social/authorize_interaction?uri={uri}"
+    }
+  ]
+}
