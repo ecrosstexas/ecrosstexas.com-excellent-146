@@ -1,17 +1,7 @@
 ---
 title: Why I'm Thankful
+description: 
 date: 2013-11-29
-author: Eric Wallace
-excerpt:
-draft: false
-seo:
-  title: "Why I'm Thankful" # if left blank, title above used
-  description: # if left blank, excerpt above used
-  image: # relative to /assets/images, if blank, uses -> /src/assets/images/meta/default.png
-images: # relative to /src/assets/images/
-  feature: # used for hero
-  thumb: # used for collections listing view
-  slide:
 tags:
     - Thanksgiving
 ---
@@ -38,4 +28,4 @@ Another Thanksgiving Day is nearly done. I'd be remiss if I didn't stop and say 
 
 - My fabulous wife Shannon: I wouldn't want to do this with anyone else by my side.
 
-- Jesus Christ: His substitutionary, atoning sacrifce on the cross and His resurrection for my justification. I am so undeserving of the love of the great triune God.
+- Jesus Christ: His substitutionary, atoning sacrifice on the cross and His resurrection for my justification. I am so undeserving of the love of the great triune God.
