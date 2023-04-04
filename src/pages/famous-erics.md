@@ -12,6 +12,7 @@ tags:
 
 -   [Eric the Red][2]
 -   [ERIC database][3], Department of Education
+-   [Eric Bailey][21], Web Developer
 -   [Eric Carle][4], Author
 -   [Eric Clapton][5], Musician
 -   [Eric Costello][6], Web Developer
@@ -48,3 +49,4 @@ tags:
 [18]:	http://www.irishcalvinist.com/
 [19]:	http://en.wikipedia.org/wiki/Eric_Schmidt
 [20]:	http://www.imdb.com/name/nm0000655/
+[21]:   https://ericwbailey.website
