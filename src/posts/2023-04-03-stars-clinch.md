@@ -32,4 +32,6 @@ https://twitter.com/BallySportsSW/status/1643093602921324544?s=20
 
 https://twitter.com/BruceLeVinePuck/status/1643092919337775104?s=20
 
+https://twitter.com/DallasStars/status/1643093311031263233?s=20
+
 https://twitter.com/DallasStars/status/1643095962607337475?s=20
