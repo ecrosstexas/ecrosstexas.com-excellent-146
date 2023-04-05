@@ -1,5 +1,5 @@
 ---
-title: 'ecrosstexas.com'
+title: "ecrosstexas.com"
 permalink: /index.html
 description: 'The personal website of Eric Wallace, a digital rancher in Plano, Texas.'
 layout: 'home'
