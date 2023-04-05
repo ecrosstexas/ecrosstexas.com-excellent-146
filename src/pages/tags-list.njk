@@ -1,8 +1,10 @@
 ---
-title: "List of Tags"
+title: "Tags"
 permalink: /tags/index.html
 description: "All the tags in use here on Eric's digital ranch."
 layout: page
+tags:
+	- pages
 ---
 <ul>
 {% for tag in collections.all | getAllTags | filterTagList %}
