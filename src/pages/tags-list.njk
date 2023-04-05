@@ -1,0 +1,12 @@
+---
+title: "List of Tags"
+permalink: /tags/index.html
+description: "All the tags in use here on Eric's digital ranch."
+layout: page
+---
+<ul>
+{% for tag in collections.all | getAllTags | filterTagList %}
+	{% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a></li>
+{% endfor %}
+</ul>
