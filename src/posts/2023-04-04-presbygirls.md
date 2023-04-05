@@ -1,6 +1,6 @@
 ---
 title: 'Abuse in the Church'
-description: 'Latest Presbygirls podcast features a discussion of identifying, addressing, and preventing abuse in the church.'
+description: 'The Latest Presbygirls podcast features a discussion of identifying, addressing, and preventing abuse in the church.'
 date: 2023-04-04T09:02:14
 layout: post
 tags:
