@@ -6,6 +6,6 @@ url: "https://www.cbssports.com/mlb/news/old-yankee-stadiums-rise-and-fall-the-c
 date: 2023-04-03T14:56:47
 youtube: false
 tags:
- - NewYorkYankees
+ - "NewYorkYankees"
 ---
 {{ description }} [{{ anchortext }}]({{ url }})
