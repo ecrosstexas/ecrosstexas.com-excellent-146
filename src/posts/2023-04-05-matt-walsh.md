@@ -18,4 +18,4 @@ Watch Matt dialog with a EMT:
 
 https://twitter.com/MattWalshBlog/status/1643450523235028995?s=20
 
-[Watch the full video](videos/how-the-trans-agenda-destroys-human-life-and-common-sense-or-matt-walsh-live-at-new-mexico-state/)
+[Watch the full video](https://www.ecrosstexas.com/videos/how-the-trans-agenda-destroys-human-life-and-common-sense-or-matt-walsh-live-at-new-mexico-state/)
