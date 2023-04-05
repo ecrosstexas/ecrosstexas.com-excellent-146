@@ -10,7 +10,14 @@ const getAllLinks = collection => {
   return projects.reverse();
 };
 
+/** Returns all video posts as a collection. */
+const getAllVideos = collection => {
+  const projects = collection.getFilteredByGlob('./src/videos/*.md');
+  return projects.reverse();
+};
+
 module.exports = {
 getAllPosts, 
-getAllLinks
+getAllLinks,
+getAllVideos
 };
