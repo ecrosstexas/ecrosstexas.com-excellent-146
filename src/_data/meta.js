@@ -22,7 +22,9 @@ module.exports = {
       'The personal website of Eric Wallace, a digital rancher in Plano, Texas. ', // alt text for default meta image
     twitterSite: '', // i.e. @site - twitter profile of the site
     twitterCreator: '@ecrosstexas', // i.e. @author -  twitter profile of the site
-    mastodonProfile: 'https://mastodon.social/@ecrosstexas' // i.e. https://front-end.social/@lene - url to your mastodon instance/profile
+    mastodonProfile: 'https://mastodon.social/@ecrosstexas', // i.e. https://front-end.social/@lene - url to your mastodon instance/profile
+    mastodonUser: 'ecrosstexas',
+    mastodonDomain: 'mastodon.social'
   },
   blog: {
     // this is for the rss feed
