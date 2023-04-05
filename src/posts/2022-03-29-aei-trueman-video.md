@@ -6,8 +6,8 @@ excerpt: Discontents of the modern self - A conversation with Carl R. Trueman
 draft: false
 youtube: true
 tags:
-    - video
-    -
+    - CarlTrueman
+    - self
 ---
   Every society has some understanding of the nature and purpose of human life. What is the American definition of individualism, and how did it become dominant? What are its possibilities, and who are its discontents?
 

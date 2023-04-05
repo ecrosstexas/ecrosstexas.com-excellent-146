@@ -9,5 +9,3 @@ tags:
  - NewYorkYankees
 ---
 {{ description }} [{{ anchortext }}]({{ url }})
-
-
