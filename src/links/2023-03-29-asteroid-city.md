@@ -9,5 +9,6 @@ tags:
     - movie
     - trailer
     - WesAnderson
+    - videos
 ---
-{% youtube '0xlNlzBTY_E', 'ASTEROID CITY (2023)' %}
+{% youtube '0xlNlzBTY_E', '{{ title }}' %}
