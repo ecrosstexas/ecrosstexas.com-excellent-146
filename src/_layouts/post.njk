@@ -12,14 +12,17 @@ preloads:
   <div class="wrapper flow prose">
     <h1 class=" ">{{ title }}</h1>
 
-    {% set definedDate = date %} {% include "partials/date.njk" %}
 
+    {% set definedDate = date %} {% include "partials/date.njk" %}
+    
+    <!-- include tags -->
+    {% include "partials/tags.njk" %}
+    
     {{ content | safe }}
   </div>
 </article>
 
-<!-- include tags -->
-{% include "partials/tags.njk" %}
+
 
 
 <!-- include crossposts -->
