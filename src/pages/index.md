@@ -9,7 +9,7 @@ blog:
 
 ---
 
-## Welcome to my Digital Ranch
+## Welcome to Eric's Digital Ranch
 
 Eric's [blog](/blog/), [links](/links/), notes, photos, and [more](/sitemap/). It's a digital garden, a commonplace book, a modern day cabinet of curiosities.
 
