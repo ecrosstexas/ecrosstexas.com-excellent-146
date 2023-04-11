@@ -7,9 +7,11 @@ layout: page
 tags:
 - pages
 ---
-ecrosstexas.com has been my personal web space since I discovered blogging in 2001. Through the years it has housed various incarnations of my [blog](/blog/), [photos](/photos/), personal projects and whatever other random stuff that interests me. The current design was launched in March of 2023.
+ecrosstexas.com has been my personal web space since I discovered blogging in 2001. Through the years it has housed various incarnations of my [blog](/blog/), [links](/links), [photos](/photos/), personal projects and whatever other random stuff that interests me. 
 
-The site is currently hosted on <a target="_blank" href="https://netlify.com" alt="Netflify - Server Less, Do More">Netlify.</a> and is published using the <a target="_blank" href="https://11ty.dev" alt="11ty Static Site Generator">11ty</a> static site generator.
+The current design launched in March of 2023.
+
+The site is currently hosted on [Netlify](https://netlify.com) and is published using the [11ty](https://11ty.dev) static site generator.
 
 ## Copyright
 
@@ -17,7 +19,7 @@ Unless otherwise noted, all original content is copyright &copy; 2001-{% year %}
 
 ## Standards
 
-ecrosstexas.com features a committment to [standards](https://www.w3.org/standards/) and the [IndieWeb](https://indieweb.org).
+ecrosstexas.com features a commitment to [standards](https://www.w3.org/standards/) and the [IndieWeb](https://indieweb.org).
 
 ### Validation
 

@@ -15,11 +15,14 @@ preloads:
     {% set definedDate = date %} {% include "partials/date.njk" %}
 
     {{ content | safe }}
+    
+    <!-- include tags -->
+    {% include "partials/tags.njk" %}
+    
   </div>
 </article>
 
-<!-- include tags -->
-{% include "partials/tags.njk" %}
+
 
 
 <!-- include crossposts -->

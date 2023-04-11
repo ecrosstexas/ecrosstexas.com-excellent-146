@@ -5,7 +5,6 @@ date: 2023-04-05T15:49:14
 layout: post
 tags:
  - MattWalsh
- - transgender
  - gender
 ---
 Matt Walsh spoke at New Mexico State last night and dropped truth bombs. Church, do we have the courage to say the things Matt says here?

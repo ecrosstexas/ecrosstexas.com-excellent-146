@@ -7,7 +7,6 @@ date: 2023-04-05T15:38:18
 youtube: true
 tags:
     - MattWalsh
-    - transgender
     - gender
 ---
 

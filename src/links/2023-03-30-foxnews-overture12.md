@@ -8,6 +8,6 @@ youtube: false
 tags:
     - PCAGA
     - PCA
-    - transgender
+    - gender
 ---
 {{ description }} [{{ anchortext }}]({{ url }})
