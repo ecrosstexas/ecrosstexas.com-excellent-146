@@ -6,7 +6,7 @@ layout: post
 tags:
  - podcast
 ---
-{% imagePlaceholder "./src/assets/images/mos-icon.jpeg", "Mortifcaiton of Spin show art featuring John Owen listening to the show.", "Mortifcaiton of Spin with Todd Pruitt and Carl Trueman" %}
+{% imagePlaceholder "./src/assets/images/not-mine/mos-icon.jpeg", "Mortifcaiton of Spin show art featuring John Owen listening to the show.", "Mortifcaiton of Spin with Todd Pruitt and Carl Trueman" %}
 
 These are the podcasts that I am most frequently listening to and learning from in early 2023.
 
